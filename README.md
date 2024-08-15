@@ -1,3 +1,4 @@
 # CurrencyConversion
 CurrencyConversion
-![Uploading simulator_screenshot_F7821861-A5B1-44C4-914B-27E93354337E.png…]()
+
+![Simulator Screenshot - iPhone 15 Pro - 2024-08-15 at 21 02 35](https://github.com/user-attachments/assets/59588112-f4a2-47c4-ad1b-a96144de953d)
